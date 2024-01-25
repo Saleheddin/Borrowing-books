@@ -1,0 +1,45 @@
+body {
+    background-color: white;
+    text-align: center;
+}
+
+table {
+    border: 1px solid green;
+    color: forestgreen;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-collapse:separate;
+    width: 80%;
+    height: 80%;
+}
+
+body h1{
+
+    color: rgb(25, 34, 25);
+    font-size: 200%;
+    text-align: center;
+}
+tr {
+    background-color: white;
+    color: forestgreen;
+    text-align: center;
+}
+
+td {
+    border: 1px solid green;
+    color: forestgreen;
+    text-align: center;
+}
+
+th {
+    background-color: yellowgreen;
+    color: white;
+    text-align: center;
+}
+
+img.icon {
+    display: inline;
+    height: 20px;
+}
